@@ -1,0 +1,9 @@
+#pic{
+    height: 500px;
+    width: 500px;
+padding: 20px;
+}
+body{
+    text-align: center;
+background-color: aqua;
+}
